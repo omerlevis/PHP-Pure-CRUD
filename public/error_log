@@ -1,0 +1,12 @@
+[15-Aug-2023 21:29:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'admin'@'localhost' (using password: YES) in /home/afktae4bwbny/guest8.orzila.org/app/config/database.php:7
+Stack trace:
+#0 /home/afktae4bwbny/guest8.orzila.org/app/config/database.php(7): mysqli->__construct()
+#1 /home/afktae4bwbny/guest8.orzila.org/public/index.php(3): include('/home/afktae4bw...')
+#2 {main}
+  thrown in /home/afktae4bwbny/guest8.orzila.org/app/config/database.php on line 7
+[15-Aug-2023 21:29:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'admin'@'localhost' (using password: YES) in /home/afktae4bwbny/guest8.orzila.org/app/config/database.php:7
+Stack trace:
+#0 /home/afktae4bwbny/guest8.orzila.org/app/config/database.php(7): mysqli->__construct()
+#1 /home/afktae4bwbny/guest8.orzila.org/public/index.php(3): include('/home/afktae4bw...')
+#2 {main}
+  thrown in /home/afktae4bwbny/guest8.orzila.org/app/config/database.php on line 7
